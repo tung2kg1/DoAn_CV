@@ -143,6 +143,12 @@ ckpt_10.pt
 ckpt_20.pt
 ```
 
+Download checkpoint:
+
+---
+https://drive.google.com/drive/folders/1PZt42pn5k4-Dta_Z4AHcPUMIBpv0dYqX?usp=drive_link
+---
+
 ---
 
 # 6. Inference
