@@ -7,13 +7,9 @@ from PIL import Image
 import face_alignment
 from skimage.transform import warp
 
-from dataset1.video_data import get_deca_tform
+from dataset.video_data import get_deca_tform
 from models.cvthead import CVTHead
 
-
-# ------------------------------
-# preprocess image
-# ------------------------------
 
 def preprocess_image(img_pth, fa, device):
 
