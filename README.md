@@ -28,16 +28,18 @@ Generated Face Animation
 ```
 CVTHead/
 │
-├── models/              # Kiến trúc mô hình
-├── dataset1/            # Dataset loader
-├── data/                # Pretrained weights
-├── checkpoints/         # Checkpoint sau khi fine-tune
-├── examples/            # Ảnh test
-├── outputs/             # Kết quả inference
+├── models/                   # Kiến trúc mô hình
+├── dataset1/                 # Dataset loader
+├── data/                     # Pretrained weights
+├── checkpoints/              # Checkpoint sau khi fine-tune
+├── examples/                 # Ảnh test
+├── outputs/                  # Kết quả inference
 │
-├── train.py             # Script huấn luyện
-├── inference.py         # Script inference
-└── README.md
+├── train.py                  # Script huấn luyện
+├── inference.py              # Script inference
+├── preprocess_dataset.py     # Chuẩn hóa dữ liêu đầu vào
+├── README.md
+└── train.py                    # Script huấn luyện mô hình
 ```
 
 ---
