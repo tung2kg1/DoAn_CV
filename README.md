@@ -1,5 +1,3 @@
-# CVTHead Fine-Tuning Project
-
 ## 1. Giới thiệu
 
 Dự án này triển khai và fine-tune mô hình **CVTHead** nhằm tạo **Talking Head Animation** từ một ảnh khuôn mặt duy nhất.
